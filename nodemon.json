@@ -1,0 +1,3 @@
+{
+  "ignore": ["wisnudev", "node_modules", "database", "logs"]
+}
