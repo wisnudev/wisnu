@@ -19,7 +19,7 @@ This script is created by [wisnudev](https://github.com/wisnudev) using Node.js 
 - [Dani](https://github.com/wisnudev) (Penyumbang Code)
 
 #### Join Group
-[![Grup WhatsApp](https://img.shields.io/badge/WhatsApp%20Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/Hx9vcBVhbc04KLVGPFtH2R) 
+[![Grup WhatsApp](https://img.shields.io/badge/WhatsApp%20Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://whatsapp.com/channel/0029Vb9bslOJf05VjRGr5j2q) 
 
 ---
 #### Deploy to Heroku
