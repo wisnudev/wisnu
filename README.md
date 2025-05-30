@@ -10,7 +10,7 @@
 <a href="https://github.com/wisnudev/wisnu/pulls?q=is%3Apr+is%3Aclosed"><img title="Pull Request" src="https://img.shields.io/github/issues-pr-closed/wisnudev/wisnu?label=PullRequest&color=red&style=flat-square"></a>
 </div>
 
-This script is created by [wisnudev](https://github.com/wisnudev) using Node.js and the [WhiskeySocket/Baileys](https://github.com/WhiskeySockets/Baileys) library. The script is currently in the development phase (BETA), so there may still be some errors that can be ignored. If errors persist even after debugging, please contact the owner for assistance. ~ By wisnu
+This script is created by [wisnudev](https://github.com/wisnudev) using Node.js and the [WhiskeySocket/Baileys](https://github.com/WhiskeySockets/Baileys) library. The script is currently in the development phase (BETA), so there may still be some errors that can be ignored. If errors persist even after debugging, please contact the owner for assistance. ~ By @wisnudev
 
 ## Contributor
 
